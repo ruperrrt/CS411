@@ -1,0 +1,241 @@
+date,road,RPT,home,HPT
+1-Mar-17,Dallas Mavericks,95,Atlanta Hawks,100
+1-Mar-17,Cleveland Cavaliers,99,Boston Celtics,103
+1-Mar-17,Houston Rockets,122,Los Angeles Clippers,103
+1-Mar-17,Philadelphia 76ers,98,Miami Heat,125
+1-Mar-17,Denver Nuggets,110,Milwaukee Bucks,98
+1-Mar-17,Detroit Pistons,86,New Orleans Pelicans,109
+1-Mar-17,New York Knicks,101,Orlando Magic,90
+1-Mar-17,Brooklyn Nets,109,Sacramento Kings,100
+1-Mar-17,Indiana Pacers,99,San Antonio Spurs,100
+1-Mar-17,Washington Wizards,105,Toronto Raptors,96
+1-Mar-17,Minnesota Timberwolves,107,Utah Jazz,80
+2-Mar-17,Golden State Warriors,87,Chicago Bulls,94
+2-Mar-17,Charlotte Hornets,103,Phoenix Suns,120
+2-Mar-17,Oklahoma City Thunder,109,Portland Trail Blazers,114
+3-Mar-17,Cleveland Cavaliers,135,Atlanta Hawks,130
+3-Mar-17,Memphis Grizzlies,100,Dallas Mavericks,104
+3-Mar-17,Boston Celtics,115,Los Angeles Lakers,95
+3-Mar-17,Los Angeles Clippers,101,Milwaukee Bucks,112
+3-Mar-17,Miami Heat,99,Orlando Magic,110
+3-Mar-17,New York Knicks,102,Philadelphia 76ers,105
+3-Mar-17,Oklahoma City Thunder,111,Phoenix Suns,118
+3-Mar-17,Brooklyn Nets,97,Utah Jazz,112
+3-Mar-17,Toronto Raptors,114,Washington Wizards,106
+4-Mar-17,Los Angeles Clippers,101,Chicago Bulls,91
+4-Mar-17,Charlotte Hornets,112,Denver Nuggets,102
+4-Mar-17,Memphis Grizzlies,108,Houston Rockets,123
+4-Mar-17,Cleveland Cavaliers,92,Miami Heat,120
+4-Mar-17,Toronto Raptors,94,Milwaukee Bucks,101
+4-Mar-17,Detroit Pistons,136,Philadelphia 76ers,106
+4-Mar-17,Brooklyn Nets,116,Portland Trail Blazers,130
+4-Mar-17,Minnesota Timberwolves,90,San Antonio Spurs,97
+5-Mar-17,Indiana Pacers,97,Atlanta Hawks,96
+5-Mar-17,Oklahoma City Thunder,89,Dallas Mavericks,104
+5-Mar-17,New Orleans Pelicans,105,Los Angeles Lakers,97
+5-Mar-17,Golden State Warriors,112,New York Knicks,105
+5-Mar-17,Boston Celtics,106,Phoenix Suns,109
+5-Mar-17,Utah Jazz,110,Sacramento Kings,109
+5-Mar-17,Orlando Magic,114,Washington Wizards,115
+6-Mar-17,Golden State Warriors,119,Atlanta Hawks,111
+6-Mar-17,Indiana Pacers,88,Charlotte Hornets,100
+6-Mar-17,Miami Heat,106,Cleveland Cavaliers,98
+6-Mar-17,Sacramento Kings,96,Denver Nuggets,108
+6-Mar-17,Chicago Bulls,95,Detroit Pistons,109
+6-Mar-17,Boston Celtics,102,Los Angeles Clippers,116
+6-Mar-17,Brooklyn Nets,122,Memphis Grizzlies,109
+6-Mar-17,New York Knicks,113,Orlando Magic,105
+6-Mar-17,Milwaukee Bucks,112,Philadelphia 76ers,98
+6-Mar-17,Houston Rockets,110,San Antonio Spurs,112
+6-Mar-17,New Orleans Pelicans,83,Utah Jazz,88
+7-Mar-17,Los Angeles Lakers,111,Dallas Mavericks,122
+7-Mar-17,Portland Trail Blazers,126,Oklahoma City Thunder,121
+7-Mar-17,Washington Wizards,131,Phoenix Suns,127
+8-Mar-17,Brooklyn Nets,105,Atlanta Hawks,110
+8-Mar-17,Washington Wizards,123,Denver Nuggets,113
+8-Mar-17,Boston Celtics,99,Golden State Warriors,86
+8-Mar-17,Utah Jazz,115,Houston Rockets,108
+8-Mar-17,Detroit Pistons,98,Indiana Pacers,115
+8-Mar-17,Charlotte Hornets,101,Miami Heat,108
+8-Mar-17,New York Knicks,93,Milwaukee Bucks,104
+8-Mar-17,Los Angeles Clippers,91,Minnesota Timberwolves,107
+8-Mar-17,Toronto Raptors,94,New Orleans Pelicans,87
+8-Mar-17,Chicago Bulls,91,Orlando Magic,98
+8-Mar-17,Sacramento Kings,104,San Antonio Spurs,114
+9-Mar-17,Cleveland Cavaliers,101,Detroit Pistons,106
+9-Mar-17,Los Angeles Clippers,114,Memphis Grizzlies,98
+9-Mar-17,San Antonio Spurs,92,Oklahoma City Thunder,102
+9-Mar-17,Los Angeles Lakers,122,Phoenix Suns,110
+9-Mar-17,Philadelphia 76ers,108,Portland Trail Blazers,114
+10-Mar-17,Toronto Raptors,99,Atlanta Hawks,105
+10-Mar-17,Houston Rockets,115,Chicago Bulls,94
+10-Mar-17,Orlando Magic,81,Charlotte Hornets,121
+10-Mar-17,Brooklyn Nets,96,Dallas Mavericks,105
+10-Mar-17,Boston Celtics,99,Denver Nuggets,119
+10-Mar-17,Indiana Pacers,85,Milwaukee Bucks,99
+10-Mar-17,Golden State Warriors,102,Minnesota Timberwolves,103
+10-Mar-17,Washington Wizards,130,Sacramento Kings,122
+11-Mar-17,New Orleans Pelicans,125,Charlotte Hornets,122
+11-Mar-17,Phoenix Suns,100,Dallas Mavericks,98
+11-Mar-17,New York Knicks,92,Detroit Pistons,112
+11-Mar-17,Philadelphia 76ers,100,Los Angeles Clippers,112
+11-Mar-17,Atlanta Hawks,107,Memphis Grizzlies,90
+11-Mar-17,Toronto Raptors,89,Miami Heat,104
+11-Mar-17,Minnesota Timberwolves,95,Milwaukee Bucks,102
+11-Mar-17,Utah Jazz,104,Oklahoma City Thunder,112
+11-Mar-17,Cleveland Cavaliers,116,Orlando Magic,104
+11-Mar-17,Washington Wizards,125,Portland Trail Blazers,124
+11-Mar-17,Denver Nuggets,105,Sacramento Kings,92
+11-Mar-17,Golden State Warriors,85,San Antonio Spurs,107
+12-Mar-17,Chicago Bulls,80,Boston Celtics,100
+12-Mar-17,New York Knicks,112,Brooklyn Nets,120
+12-Mar-17,Cleveland Cavaliers,112,Houston Rockets,117
+12-Mar-17,Miami Heat,98,Indiana Pacers,102
+12-Mar-17,Philadelphia 76ers,118,Los Angeles Lakers,116
+12-Mar-17,Portland Trail Blazers,110,Phoenix Suns,101
+13-Mar-17,Chicago Bulls,115,Charlotte Hornets,109
+13-Mar-17,Los Angeles Lakers,101,Denver Nuggets,129
+13-Mar-17,Milwaukee Bucks,93,Memphis Grizzlies,113
+13-Mar-17,Washington Wizards,104,Minnesota Timberwolves,119
+13-Mar-17,Orlando Magic,115,Sacramento Kings,120
+13-Mar-17,Atlanta Hawks,99,San Antonio Spurs,107
+13-Mar-17,Dallas Mavericks,78,Toronto Raptors,100
+13-Mar-17,Los Angeles Clippers,108,Utah Jazz,114
+14-Mar-17,Oklahoma City Thunder,122,Brooklyn Nets,104
+14-Mar-17,Detroit Pistons,96,Cleveland Cavaliers,128
+14-Mar-17,Philadelphia 76ers,104,Golden State Warriors,106
+14-Mar-17,Portland Trail Blazers,77,New Orleans Pelicans,100
+14-Mar-17,Indiana Pacers,81,New York Knicks,87
+15-Mar-17,Minnesota Timberwolves,104,Boston Celtics,117
+15-Mar-17,Memphis Grizzlies,98,Chicago Bulls,91
+15-Mar-17,Utah Jazz,97,Detroit Pistons,83
+15-Mar-17,Los Angeles Lakers,100,Houston Rockets,139
+15-Mar-17,Charlotte Hornets,77,Indiana Pacers,98
+15-Mar-17,Milwaukee Bucks,97,Los Angeles Clippers,96
+15-Mar-17,New Orleans Pelicans,112,Miami Heat,120
+15-Mar-17,Sacramento Kings,107,Phoenix Suns,101
+15-Mar-17,Portland Trail Blazers,110,San Antonio Spurs,106
+15-Mar-17,Dallas Mavericks,112,Washington Wizards,107
+16-Mar-17,Memphis Grizzlies,103,Atlanta Hawks,91
+16-Mar-17,Utah Jazz,83,Cleveland Cavaliers,91
+16-Mar-17,Los Angeles Clippers,114,Denver Nuggets,129
+16-Mar-17,Orlando Magic,92,Golden State Warriors,122
+16-Mar-17,Brooklyn Nets,121,New York Knicks,110
+16-Mar-17,Oklahoma City Thunder,123,Toronto Raptors,102
+17-Mar-17,Boston Celtics,98,Brooklyn Nets,95
+17-Mar-17,Toronto Raptors,87,Detroit Pistons,75
+17-Mar-17,Milwaukee Bucks,107,Los Angeles Lakers,103
+17-Mar-17,Minnesota Timberwolves,105,Miami Heat,123
+17-Mar-17,Houston Rockets,112,New Orleans Pelicans,128
+17-Mar-17,Dallas Mavericks,74,Philadelphia 76ers,116
+17-Mar-17,Orlando Magic,109,Phoenix Suns,103
+17-Mar-17,Chicago Bulls,107,Washington Wizards,112
+18-Mar-17,Portland Trail Blazers,113,Atlanta Hawks,97
+18-Mar-17,Utah Jazz,86,Chicago Bulls,95
+18-Mar-17,Washington Wizards,93,Charlotte Hornets,98
+18-Mar-17,Houston Rockets,109,Denver Nuggets,105
+18-Mar-17,Milwaukee Bucks,92,Golden State Warriors,117
+18-Mar-17,Cleveland Cavaliers,78,Los Angeles Clippers,108
+18-Mar-17,San Antonio Spurs,96,Memphis Grizzlies,104
+18-Mar-17,Sacramento Kings,94,Oklahoma City Thunder,110
+19-Mar-17,Dallas Mavericks,111,Brooklyn Nets,104
+19-Mar-17,Phoenix Suns,95,Detroit Pistons,112
+19-Mar-17,Cleveland Cavaliers,125,Los Angeles Lakers,120
+19-Mar-17,Portland Trail Blazers,115,Miami Heat,104
+19-Mar-17,Minnesota Timberwolves,109,New Orleans Pelicans,123
+19-Mar-17,Boston Celtics,99,Philadelphia 76ers,105
+19-Mar-17,Sacramento Kings,102,San Antonio Spurs,118
+19-Mar-17,Indiana Pacers,91,Toronto Raptors,116
+20-Mar-17,Washington Wizards,102,Boston Celtics,110
+20-Mar-17,Atlanta Hawks,90,Charlotte Hornets,105
+20-Mar-17,Denver Nuggets,124,Houston Rockets,125
+20-Mar-17,Utah Jazz,100,Indiana Pacers,107
+20-Mar-17,New York Knicks,105,Los Angeles Clippers,114
+20-Mar-17,Golden State Warriors,111,Oklahoma City Thunder,95
+20-Mar-17,Philadelphia 76ers,109,Orlando Magic,112
+21-Mar-17,Detroit Pistons,96,Brooklyn Nets,98
+21-Mar-17,Golden State Warriors,112,Dallas Mavericks,87
+21-Mar-17,Los Angeles Clippers,133,Los Angeles Lakers,109
+21-Mar-17,Phoenix Suns,97,Miami Heat,112
+21-Mar-17,San Antonio Spurs,100,Minnesota Timberwolves,93
+21-Mar-17,Memphis Grizzlies,82,New Orleans Pelicans,95
+21-Mar-17,Milwaukee Bucks,93,Portland Trail Blazers,90
+21-Mar-17,Chicago Bulls,120,Toronto Raptors,122
+22-Mar-17,Indiana Pacers,100,Boston Celtics,109
+22-Mar-17,Detroit Pistons,95,Chicago Bulls,117
+22-Mar-17,Cleveland Cavaliers,113,Denver Nuggets,126
+22-Mar-17,Philadelphia 76ers,97,Oklahoma City Thunder,122
+22-Mar-17,Charlotte Hornets,109,Orlando Magic,102
+22-Mar-17,Milwaukee Bucks,116,Sacramento Kings,98
+22-Mar-17,New York Knicks,101,Utah Jazz,108
+22-Mar-17,Atlanta Hawks,100,Washington Wizards,104
+23-Mar-17,Phoenix Suns,98,Brooklyn Nets,126
+23-Mar-17,Los Angeles Clippers,95,Dallas Mavericks,97
+23-Mar-17,Toronto Raptors,101,Miami Heat,84
+23-Mar-17,New York Knicks,95,Portland Trail Blazers,110
+23-Mar-17,Memphis Grizzlies,90,San Antonio Spurs,97
+24-Mar-17,Phoenix Suns,120,Boston Celtics,130
+24-Mar-17,Philadelphia 76ers,117,Chicago Bulls,107
+24-Mar-17,Cleveland Cavaliers,112,Charlotte Hornets,105
+24-Mar-17,Sacramento Kings,100,Golden State Warriors,114
+24-Mar-17,New Orleans Pelicans,107,Houston Rockets,117
+24-Mar-17,Denver Nuggets,125,Indiana Pacers,117
+24-Mar-17,Minnesota Timberwolves,119,Los Angeles Lakers,130
+24-Mar-17,Atlanta Hawks,97,Milwaukee Bucks,100
+24-Mar-17,Detroit Pistons,87,Orlando Magic,115
+24-Mar-17,Brooklyn Nets,108,Washington Wizards,129
+25-Mar-17,Washington Wizards,127,Cleveland Cavaliers,115
+25-Mar-17,Toronto Raptors,94,Dallas Mavericks,86
+25-Mar-17,Utah Jazz,95,Los Angeles Clippers,108
+25-Mar-17,Minnesota Timberwolves,100,Portland Trail Blazers,112
+25-Mar-17,New York Knicks,98,San Antonio Spurs,106
+26-Mar-17,Brooklyn Nets,107,Atlanta Hawks,92
+26-Mar-17,Miami Heat,108,Boston Celtics,112
+26-Mar-17,Phoenix Suns,106,Charlotte Hornets,120
+26-Mar-17,New Orleans Pelicans,115,Denver Nuggets,90
+26-Mar-17,Memphis Grizzlies,94,Golden State Warriors,106
+26-Mar-17,Oklahoma City Thunder,125,Houston Rockets,137
+26-Mar-17,Philadelphia 76ers,94,Indiana Pacers,107
+26-Mar-17,Sacramento Kings,98,Los Angeles Clippers,97
+26-Mar-17,Portland Trail Blazers,97,Los Angeles Lakers,81
+26-Mar-17,Chicago Bulls,109,Milwaukee Bucks,94
+27-Mar-17,Oklahoma City Thunder,92,Dallas Mavericks,91
+27-Mar-17,Detroit Pistons,95,New York Knicks,109
+27-Mar-17,Memphis Grizzlies,90,Sacramento Kings,91
+27-Mar-17,Cleveland Cavaliers,74,San Antonio Spurs,103
+27-Mar-17,Orlando Magic,112,Toronto Raptors,131
+27-Mar-17,New Orleans Pelicans,100,Utah Jazz,108
+28-Mar-17,Phoenix Suns,91,Atlanta Hawks,95
+28-Mar-17,Philadelphia 76ers,106,Brooklyn Nets,101
+28-Mar-17,Milwaukee Bucks,118,Charlotte Hornets,108
+28-Mar-17,Miami Heat,97,Detroit Pistons,96
+28-Mar-17,Golden State Warriors,113,Houston Rockets,106
+28-Mar-17,Minnesota Timberwolves,115,Indiana Pacers,114
+28-Mar-17,Washington Wizards,119,Los Angeles Lakers,108
+28-Mar-17,Denver Nuggets,113,Portland Trail Blazers,122
+29-Mar-17,Milwaukee Bucks,103,Boston Celtics,100
+29-Mar-17,Washington Wizards,124,Los Angeles Clippers,133
+29-Mar-17,Indiana Pacers,97,Memphis Grizzlies,110
+29-Mar-17,Dallas Mavericks,118,New Orleans Pelicans,121
+29-Mar-17,Miami Heat,105,New York Knicks,88
+29-Mar-17,Oklahoma City Thunder,114,Orlando Magic,106
+29-Mar-17,Atlanta Hawks,99,Philadelphia 76ers,92
+29-Mar-17,Utah Jazz,112,Sacramento Kings,82
+29-Mar-17,Golden State Warriors,110,San Antonio Spurs,98
+29-Mar-17,Charlotte Hornets,110,Toronto Raptors,106
+30-Mar-17,Cleveland Cavaliers,93,Chicago Bulls,99
+30-Mar-17,Brooklyn Nets,89,Detroit Pistons,90
+30-Mar-17,Los Angeles Lakers,104,Minnesota Timberwolves,119
+30-Mar-17,Los Angeles Clippers,124,Phoenix Suns,118
+30-Mar-17,Houston Rockets,107,Portland Trail Blazers,117
+31-Mar-17,Orlando Magic,116,Boston Celtics,117
+31-Mar-17,Denver Nuggets,114,Charlotte Hornets,122
+31-Mar-17,Philadelphia 76ers,105,Cleveland Cavaliers,122
+31-Mar-17,Houston Rockets,98,Golden State Warriors,107
+31-Mar-17,Dallas Mavericks,90,Memphis Grizzlies,99
+31-Mar-17,New York Knicks,98,Miami Heat,94
+31-Mar-17,Detroit Pistons,105,Milwaukee Bucks,108
+31-Mar-17,Sacramento Kings,89,New Orleans Pelicans,117
+31-Mar-17,San Antonio Spurs,100,Oklahoma City Thunder,95
+31-Mar-17,Indiana Pacers,100,Toronto Raptors,111
+31-Mar-17,Washington Wizards,88,Utah Jazz,95

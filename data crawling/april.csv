@@ -1,0 +1,95 @@
+Date,Time,Road,Home,gid
+1-Apr-17,5:00 PM,Atlanta Hawks,Chicago Bulls,1
+1-Apr-17,3:30 PM,Los Angeles Lakers,Los Angeles Clippers,2
+1-Apr-17,8:00 PM,Sacramento Kings,Minnesota Timberwolves,3
+1-Apr-17,10:00 PM,Phoenix Suns,Portland Trail Blazers,4
+2-Apr-17,6:00 PM,Atlanta Hawks,Brooklyn Nets,5
+2-Apr-17,6:00 PM,Indiana Pacers,Cleveland Cavaliers,6
+2-Apr-17,8:00 PM,Washington Wizards,Golden State Warriors,7
+2-Apr-17,3:30 PM,Memphis Grizzlies,Los Angeles Lakers,8
+2-Apr-17,6:00 PM,Denver Nuggets,Miami Heat,9
+2-Apr-17,3:30 PM,Dallas Mavericks,Milwaukee Bucks,10
+2-Apr-17,6:00 PM,Chicago Bulls,New Orleans Pelicans,11
+2-Apr-17,1:00 PM,Boston Celtics,New York Knicks,12
+2-Apr-17,3:00 PM,Charlotte Hornets,Oklahoma City Thunder,13
+2-Apr-17,9:00 PM,Houston Rockets,Phoenix Suns,14
+2-Apr-17,3:30 PM,Utah Jazz,San Antonio Spurs,15
+2-Apr-17,6:00 PM,Philadelphia 76ers,Toronto Raptors,16
+3-Apr-17,7:00 PM,Portland Trail Blazers,Minnesota Timberwolves,17
+4-Apr-17,7:00 PM,Orlando Magic,Cleveland Cavaliers,18
+4-Apr-17,10:30 PM,Minnesota Timberwolves,Golden State Warriors,19
+4-Apr-17,7:00 PM,Toronto Raptors,Indiana Pacers,20
+4-Apr-17,8:00 PM,Denver Nuggets,New Orleans Pelicans,21
+4-Apr-17,8:00 PM,Chicago Bulls,New York Knicks,22
+4-Apr-17,8:00 PM,Milwaukee Bucks,Oklahoma City Thunder,23
+4-Apr-17,7:00 PM,Brooklyn Nets,Philadelphia 76ers,24
+4-Apr-17,10:30 PM,Dallas Mavericks,Sacramento Kings,25
+4-Apr-17,8:30 PM,Memphis Grizzlies,San Antonio Spurs,26
+4-Apr-17,9:00 PM,Portland Trail Blazers,Utah Jazz,27
+4-Apr-17,7:00 PM,Charlotte Hornets,Washington Wizards,28
+5-Apr-17,8:00 PM,Cleveland Cavaliers,Boston Celtics,29
+5-Apr-17,7:00 PM,Miami Heat,Charlotte Hornets,30
+5-Apr-17,7:30 PM,Toronto Raptors,Detroit Pistons,31
+5-Apr-17,8:00 PM,Denver Nuggets,Houston Rockets,32
+5-Apr-17,10:30 PM,Dallas Mavericks,Los Angeles Clippers,33
+5-Apr-17,8:00 PM,Oklahoma City Thunder,Memphis Grizzlies,34
+5-Apr-17,10:00 PM,Golden State Warriors,Phoenix Suns,35
+5-Apr-17,8:30 PM,Los Angeles Lakers,San Antonio Spurs,36
+6-Apr-17,8:00 PM,Boston Celtics,Atlanta Hawks,37
+6-Apr-17,7:00 PM,Milwaukee Bucks,Indiana Pacers,38
+6-Apr-17,7:30 PM,Washington Wizards,New York Knicks,39
+6-Apr-17,7:00 PM,Brooklyn Nets,Orlando Magic,40
+6-Apr-17,7:00 PM,Chicago Bulls,Philadelphia 76ers,41
+6-Apr-17,10:30 PM,Minnesota Timberwolves,Portland Trail Blazers,42
+7-Apr-17,7:30 PM,Atlanta Hawks,Cleveland Cavaliers,43
+7-Apr-17,8:30 PM,San Antonio Spurs,Dallas Mavericks,44
+7-Apr-17,9:00 PM,New Orleans Pelicans,Denver Nuggets,45
+7-Apr-17,8:00 PM,Detroit Pistons,Houston Rockets,46
+7-Apr-17,10:30 PM,Sacramento Kings,Los Angeles Lakers,47
+7-Apr-17,8:00 PM,New York Knicks,Memphis Grizzlies,48
+7-Apr-17,10:00 PM,Oklahoma City Thunder,Phoenix Suns,49
+7-Apr-17,7:30 PM,Miami Heat,Toronto Raptors,50
+7-Apr-17,9:00 PM,Minnesota Timberwolves,Utah Jazz,51
+8-Apr-17,5:00 PM,Chicago Bulls,Brooklyn Nets,52
+8-Apr-17,6:00 PM,Boston Celtics,Charlotte Hornets,53
+8-Apr-17,10:30 PM,New Orleans Pelicans,Golden State Warriors,54
+8-Apr-17,6:00 PM,Indiana Pacers,Orlando Magic,55
+8-Apr-17,7:00 PM,Milwaukee Bucks,Philadelphia 76ers,56
+8-Apr-17,10:00 PM,Utah Jazz,Portland Trail Blazers,57
+8-Apr-17,8:30 PM,Los Angeles Clippers,San Antonio Spurs,58
+8-Apr-17,7:00 PM,Miami Heat,Washington Wizards,59
+9-Apr-17,3:30 PM,Cleveland Cavaliers,Atlanta Hawks,60
+9-Apr-17,5:00 PM,Oklahoma City Thunder,Denver Nuggets,61
+9-Apr-17,9:30 PM,Minnesota Timberwolves,Los Angeles Lakers,62
+9-Apr-17,6:00 PM,Detroit Pistons,Memphis Grizzlies,63
+9-Apr-17,12:00 PM,Toronto Raptors,New York Knicks,64
+9-Apr-17,6:00 PM,Dallas Mavericks,Phoenix Suns,65
+9-Apr-17,6:00 PM,Houston Rockets,Sacramento Kings,66
+10-Apr-17,7:30 PM,Brooklyn Nets,Boston Celtics,67
+10-Apr-17,8:00 PM,Orlando Magic,Chicago Bulls,68
+10-Apr-17,8:00 PM,Washington Wizards,Detroit Pistons,69
+10-Apr-17,10:30 PM,Utah Jazz,Golden State Warriors,70
+10-Apr-17,10:30 PM,Houston Rockets,Los Angeles Clippers,71
+10-Apr-17,7:30 PM,Cleveland Cavaliers,Miami Heat,72
+10-Apr-17,8:00 PM,Charlotte Hornets,Milwaukee Bucks,73
+10-Apr-17,7:00 PM,Indiana Pacers,Philadelphia 76ers,74
+10-Apr-17,10:00 PM,San Antonio Spurs,Portland Trail Blazers,75
+11-Apr-17,7:30 PM,Charlotte Hornets,Atlanta Hawks,76
+11-Apr-17,8:30 PM,Denver Nuggets,Dallas Mavericks,77
+11-Apr-17,10:30 PM,New Orleans Pelicans,Los Angeles Lakers,78
+11-Apr-17,8:00 PM,Oklahoma City Thunder,Minnesota Timberwolves,79
+11-Apr-17,10:30 PM,Phoenix Suns,Sacramento Kings,80
+12-Apr-17,8:00 PM,Milwaukee Bucks,Boston Celtics,81
+12-Apr-17,8:00 PM,Brooklyn Nets,Chicago Bulls,82
+12-Apr-17,8:00 PM,Toronto Raptors,Cleveland Cavaliers,83
+12-Apr-17,10:30 PM,Los Angeles Lakers,Golden State Warriors,84
+12-Apr-17,8:00 PM,Minnesota Timberwolves,Houston Rockets,85
+12-Apr-17,8:00 PM,Atlanta Hawks,Indiana Pacers,86
+12-Apr-17,10:30 PM,Sacramento Kings,Los Angeles Clippers,87
+12-Apr-17,8:00 PM,Dallas Mavericks,Memphis Grizzlies,88
+12-Apr-17,8:00 PM,Washington Wizards,Miami Heat,89
+12-Apr-17,8:00 PM,Philadelphia 76ers,New York Knicks,90
+12-Apr-17,8:00 PM,Denver Nuggets,Oklahoma City Thunder,91
+12-Apr-17,8:00 PM,Detroit Pistons,Orlando Magic,92
+12-Apr-17,10:30 PM,New Orleans Pelicans,Portland Trail Blazers,93
+12-Apr-17,10:30 PM,San Antonio Spurs,Utah Jazz,94
